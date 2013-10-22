@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sales>
+  <sale vendor="Nestle Sofia Corp.">
+    <expenses month="Jul-2013">30.00</expenses>
+    <expenses month="Aug-2013">40.00</expenses>
+    <expenses month="Sep-2013">45.00</expenses>
+    <expenses month="Oct-2013">50.00</expenses>
+  </sale>
+  <sale vendor="Targovishte Bottling Company Ltd.">
+    <expenses month="Jul-2013">200.00</expenses>
+    <expenses month="Aug-2013">180.00</expenses>
+    <expenses month="Sep-2013">225</expenses>
+    <expenses month="Oct-2013">250</expenses>
+  </sale>
+  <sale vendor="Zagorka Corp.">
+    <expenses month="Jul-2013">120.00</expenses>
+    <expenses month="Aug-2013">180.00</expenses>
+    <expenses month="Sep-2013">190</expenses>
+    <expenses month="Oct-2013">210</expenses>
+  </sale>
+  <sale vendor="Coca Cola">
+    <expenses month="Jul-2013">120.00</expenses>
+    <expenses month="Aug-2013">180.00</expenses>
+    <expenses month="Sep-2013">215</expenses>
+    <expenses month="Oct-2013">300</expenses>
+  </sale>
+  <sale vendor="Pepsi">
+    <expenses month="Jul-2013">120.00</expenses>
+    <expenses month="Aug-2013">180.00</expenses>
+    <expenses month="Sep-2013">190</expenses>
+    <expenses month="Oct-2013">200</expenses>
+  </sale>
+  <sale vendor="Tuborg">
+    <expenses month="Jul-2013">120.00</expenses>
+    <expenses month="Aug-2013">180.00</expenses>
+    <expenses month="Sep-2013">220</expenses>
+    <expenses month="Oct-2013">250</expenses>
+  </sale>
+  <sale vendor="Kamentza">
+    <expenses month="Jul-2013">120.00</expenses>
+    <expenses month="Aug-2013">180.00</expenses>
+    <expenses month="Sep-2013">225</expenses>
+    <expenses month="Oct-2013">250</expenses>
+  </sale>
+  <sale vendor="Ledenika">
+    <expenses month="Jul-2013">120.00</expenses>
+    <expenses month="Aug-2013">180.00</expenses>
+    <expenses month="Sep-2013">225</expenses>
+    <expenses month="Oct-2013">250</expenses>
+  </sale>
+  <sale vendor="Garlsbers">
+    <expenses month="Jul-2013">120.00</expenses>
+    <expenses month="Aug-2013">180.00</expenses>
+    <expenses month="Sep-2013">225</expenses>
+    <expenses month="Oct-2013">250</expenses>
+  </sale>
+  <sale vendor="Hainiken">
+    <expenses month="Jul-2013">120.00</expenses>
+    <expenses month="Aug-2013">180.00</expenses>
+    <expenses month="Sep-2013">225</expenses>
+    <expenses month="Oct-2013">250</expenses>
+  </sale>
+  <sale vendor="Svoge">
+    <expenses month="Jul-2013">120.00</expenses>
+    <expenses month="Aug-2013">180.00</expenses>
+    <expenses month="Sep-2013">220</expenses>
+    <expenses month="Oct-2013">250</expenses>
+  </sale>
+  <sale vendor="Staropramen">
+    <expenses month="Jul-2013">120.00</expenses>
+    <expenses month="Aug-2013">180.00</expenses>
+    <expenses month="Sep-2013">235</expenses>
+    <expenses month="Oct-2013">250</expenses>
+  </sale>
+  <sale vendor="Lindor">
+    <expenses month="Jul-2013">120.00</expenses>
+    <expenses month="Aug-2013">180.00</expenses>
+    <expenses month="Sep-2013">225</expenses>
+    <expenses month="Oct-2013">245</expenses>
+  </sale>
+  <sale vendor="Rodopea">
+    <expenses month="Jul-2013">120.00</expenses>
+    <expenses month="Aug-2013">180.00</expenses>
+    <expenses month="Sep-2013">215</expenses>
+    <expenses month="Oct-2013">250</expenses>
+  </sale>
+  <sale vendor="Verea">
+    <expenses month="Jul-2013">120.00</expenses>
+    <expenses month="Aug-2013">180.00</expenses>
+    <expenses month="Sep-2013">245</expenses>
+    <expenses month="Oct-2013">250</expenses>
+  </sale>
+  <sale vendor="Madjarov">
+    <expenses month="Jul-2013">120.00</expenses>
+    <expenses month="Aug-2013">180.00</expenses>
+    <expenses month="Sep-2013">205</expenses>
+    <expenses month="Oct-2013">235</expenses>
+  </sale>
+</sales>

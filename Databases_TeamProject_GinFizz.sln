@@ -1,0 +1,110 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket.Model", "Supermarket.Model\Supermarket.Model.csproj", "{0FA06088-8207-4AED-BACD-77DE23D0D995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelDataReader", "ExcelDataReader\ExcelDataReader.csproj", "{0B91A74C-E4E7-4F6F-B2C9-EA3E704E9301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketSQL.Model", "SupermarketSQL.Model\SupermarketSQL.Model.csproj", "{F2ADB3DF-FBA2-481B-8826-DCBB72A2C2A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketSQL.Data", "SupermarketSQL.Data\SupermarketSQL.Data.csproj", "{A866FD4B-38C2-46A5-8648-DE58A6AC37BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{614226E8-F703-4D16-942A-FB5BADC4DCDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfCreator", "PdfCreator\PdfCreator.csproj", "{AB9B4679-91FC-4499-A22A-CDD8EEAB9968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlCreator", "XmlCreator\XmlCreator.csproj", "{78899229-2261-49E4-ABCB-006884CD3AEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDb_ExportReports", "MongoDb_ExportReports\MongoDb_ExportReports.csproj", "{A4A75888-8BAB-4213-ADF0-EDB01A2CE32B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDb_SQL_MonthExpenses", "MongoDb_SQL_MonthExpenses\MongoDb_SQL_MonthExpenses.csproj", "{785CCCD9-A599-4E31-A22D-380671D91659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLLite_Mongo_Excel", "SQLLite_Mongo_Excel\SQLLite_Mongo_Excel.csproj", "{43EEEDB9-7291-412B-A533-2DE4E5D7C785}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://boyanmarinov.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Supermarket.Model\\Supermarket.Model.csproj
+		SccProjectName1 = Supermarket.Model
+		SccLocalPath1 = Supermarket.Model
+		SccProjectUniqueName2 = ExcelDataReader\\ExcelDataReader.csproj
+		SccProjectName2 = ExcelDataReader
+		SccLocalPath2 = ExcelDataReader
+		SccProjectUniqueName3 = SupermarketSQL.Model\\SupermarketSQL.Model.csproj
+		SccProjectName3 = SupermarketSQL.Model
+		SccLocalPath3 = SupermarketSQL.Model
+		SccProjectUniqueName4 = SupermarketSQL.Data\\SupermarketSQL.Data.csproj
+		SccProjectName4 = SupermarketSQL.Data
+		SccLocalPath4 = SupermarketSQL.Data
+		SccProjectUniqueName5 = Application\\Application.csproj
+		SccProjectName5 = Application
+		SccLocalPath5 = Application
+		SccProjectUniqueName6 = PdfCreator\\PdfCreator.csproj
+		SccProjectName6 = PdfCreator
+		SccLocalPath6 = PdfCreator
+		SccProjectUniqueName7 = XmlCreator\\XmlCreator.csproj
+		SccProjectName7 = XmlCreator
+		SccLocalPath7 = XmlCreator
+		SccProjectUniqueName8 = MongoDb_ExportReports\\MongoDb_ExportReports.csproj
+		SccProjectName8 = MongoDb_ExportReports
+		SccLocalPath8 = MongoDb_ExportReports
+		SccProjectUniqueName9 = MongoDb_SQL_MonthExpenses\\MongoDb_SQL_MonthExpenses.csproj
+		SccProjectName9 = MongoDb_SQL_MonthExpenses
+		SccLocalPath9 = MongoDb_SQL_MonthExpenses
+		SccProjectUniqueName10 = SQLLite_Mongo_Excel\\SQLLite_Mongo_Excel.csproj
+		SccProjectName10 = SQLLite_Mongo_Excel
+		SccLocalPath10 = SQLLite_Mongo_Excel
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA06088-8207-4AED-BACD-77DE23D0D995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA06088-8207-4AED-BACD-77DE23D0D995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA06088-8207-4AED-BACD-77DE23D0D995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA06088-8207-4AED-BACD-77DE23D0D995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B91A74C-E4E7-4F6F-B2C9-EA3E704E9301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B91A74C-E4E7-4F6F-B2C9-EA3E704E9301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B91A74C-E4E7-4F6F-B2C9-EA3E704E9301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B91A74C-E4E7-4F6F-B2C9-EA3E704E9301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2ADB3DF-FBA2-481B-8826-DCBB72A2C2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2ADB3DF-FBA2-481B-8826-DCBB72A2C2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2ADB3DF-FBA2-481B-8826-DCBB72A2C2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2ADB3DF-FBA2-481B-8826-DCBB72A2C2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A866FD4B-38C2-46A5-8648-DE58A6AC37BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A866FD4B-38C2-46A5-8648-DE58A6AC37BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A866FD4B-38C2-46A5-8648-DE58A6AC37BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A866FD4B-38C2-46A5-8648-DE58A6AC37BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{614226E8-F703-4D16-942A-FB5BADC4DCDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614226E8-F703-4D16-942A-FB5BADC4DCDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614226E8-F703-4D16-942A-FB5BADC4DCDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614226E8-F703-4D16-942A-FB5BADC4DCDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9B4679-91FC-4499-A22A-CDD8EEAB9968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9B4679-91FC-4499-A22A-CDD8EEAB9968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9B4679-91FC-4499-A22A-CDD8EEAB9968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9B4679-91FC-4499-A22A-CDD8EEAB9968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78899229-2261-49E4-ABCB-006884CD3AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78899229-2261-49E4-ABCB-006884CD3AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78899229-2261-49E4-ABCB-006884CD3AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78899229-2261-49E4-ABCB-006884CD3AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A75888-8BAB-4213-ADF0-EDB01A2CE32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A75888-8BAB-4213-ADF0-EDB01A2CE32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A75888-8BAB-4213-ADF0-EDB01A2CE32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A75888-8BAB-4213-ADF0-EDB01A2CE32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{785CCCD9-A599-4E31-A22D-380671D91659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785CCCD9-A599-4E31-A22D-380671D91659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785CCCD9-A599-4E31-A22D-380671D91659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785CCCD9-A599-4E31-A22D-380671D91659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43EEEDB9-7291-412B-A533-2DE4E5D7C785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EEEDB9-7291-412B-A533-2DE4E5D7C785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EEEDB9-7291-412B-A533-2DE4E5D7C785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43EEEDB9-7291-412B-A533-2DE4E5D7C785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

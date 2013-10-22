@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sales>
+  <sale vendor="Nestle Sofia Corp." />
+  <sale vendor="Zagorka Corp.">
+    <summary date="20.7.2013 г." total-sum="37,00" />
+    <summary date="20.7.2013 г." total-sum="59,80" />
+    <summary date="21.7.2013 г." total-sum="11,00" />
+    <summary date="21.7.2013 г." total-sum="71,76" />
+    <summary date="21.7.2013 г." total-sum="128,48" />
+    <summary date="22.7.2013 г." total-sum="16,00" />
+    <summary date="22.7.2013 г." total-sum="82,80" />
+    <summary date="22.7.2013 г." total-sum="202,40" />
+  </sale>
+  <sale vendor="Targovishte Bottling Company Ltd.">
+    <summary date="20.7.2013 г." total-sum="119,00" />
+    <summary date="20.7.2013 г." total-sum="31,20" />
+    <summary date="21.7.2013 г." total-sum="170,00" />
+    <summary date="21.7.2013 г." total-sum="515,90" />
+    <summary date="21.7.2013 г." total-sum="23,40" />
+    <summary date="22.7.2013 г." total-sum="204,00" />
+    <summary date="22.7.2013 г." total-sum="92,40" />
+  </sale>
+  <sale vendor="Coca Cola" />
+  <sale vendor="Pepsi" />
+  <sale vendor="Tuborg" />
+  <sale vendor="Kamentza">
+    <summary date="20.7.2013 г." total-sum="48,00" />
+    <summary date="21.7.2013 г." total-sum="51,60" />
+    <summary date="21.7.2013 г." total-sum="78,75" />
+    <summary date="22.7.2013 г." total-sum="21,60" />
+    <summary date="22.7.2013 г." total-sum="63,00" />
+  </sale>
+  <sale vendor="Ledenika">
+    <summary date="20.7.2013 г." total-sum="34,80" />
+    <summary date="20.7.2013 г." total-sum="19,95" />
+    <summary date="21.7.2013 г." total-sum="26,10" />
+    <summary date="21.7.2013 г." total-sum="14,25" />
+    <summary date="22.7.2013 г." total-sum="40,60" />
+  </sale>
+  <sale vendor="Garlsbers" />
+  <sale vendor="Hainiken" />
+  <sale vendor="Svoge" />
+  <sale vendor="Staropramen" />
+  <sale vendor="Lindor" />
+  <sale vendor="Rodopea" />
+  <sale vendor="Verea" />
+  <sale vendor="Madjarov" />
+</sales>
